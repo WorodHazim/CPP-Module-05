@@ -19,12 +19,10 @@ The exercises simulate a bureaucratic system with bureaucrats, forms, execution 
 
 ## Project Structure
 
-```bash
 ex00/
 ex01/
 ex02/
 ex03/
-```bash
 
 Each exercise has its own source files and Makefile.
 

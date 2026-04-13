@@ -24,6 +24,7 @@ ex00/
 ex01/
 ex02/
 ex03/
+```bash
 
 Each exercise has its own source files and Makefile.
 
